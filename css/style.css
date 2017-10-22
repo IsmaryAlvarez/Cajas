@@ -1,0 +1,54 @@
+.bigframe{
+	height: 320px;
+	width: 300px;
+	margin: 10px;
+	padding: 10px; 
+	background-color: red;
+}
+#mediumframe{
+	height: 160px;
+	width: 150px;
+	margin: 10px;
+	padding: 10px; 
+	background-color: purple;
+	position: absolute;
+	left: 80px;
+    top: 80px;
+}
+#smallframe{
+	height: 60px;
+	width: 60px;
+	margin: 10px;
+	padding: 10px; 
+	background-color: yellow;
+	position: absolute;
+	left: 80px;
+    top: 80px;
+}
+.bigframe2{
+	height: 320px;
+	width: 300px;
+	margin: 10px;
+	padding: 10px; 
+	background-color: blue;
+}
+#smallframe2{
+	height: 60px;
+	width: 60px;
+	margin: 10px;
+	padding: 10px; 
+	background-color: black;
+	position: absolute;
+	left: 8px;
+    bottom: 228px;
+}
+#mediumframe2{
+	height: 160px;
+	width: 150px;
+	margin: 10px;
+	padding: 10px; 
+	background-color: green;
+	position: absolute;
+	left: 88px;
+    bottom: 48px;
+}
